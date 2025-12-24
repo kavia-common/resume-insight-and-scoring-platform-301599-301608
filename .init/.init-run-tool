@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/resume-insight-and-scoring-platform-301599-301608/resume_analyzer_frontend"
+}
